@@ -1,4 +1,4 @@
-# X2
+# bernoulli
 
 Rust: cargo run (windows)
 
